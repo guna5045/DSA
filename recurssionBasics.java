@@ -133,5 +133,39 @@ System.out.println(checkstringpalindrome(0, str, str.length()));
 
 System.out.println(fib(5));
 
+        //Outputs
+        // 1
+        // 2
+        // Sony
+        // Sony
+        // Sony
+        // Sony
+        // Sony
+        // 1
+        // 2
+        // 3
+        // 4
+        // 5
+        // 5
+        // 4
+        // 3
+        // 2
+        // 1
+        // 1
+        // 2
+        // 3
+        // 4
+        // 5
+        // 5
+        // 4
+        // 3
+        // 2
+        // 1
+        // 15
+        // 15
+        // 120
+        // true
+        // 5
+
     }
 }
