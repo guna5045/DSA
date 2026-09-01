@@ -136,8 +136,6 @@ public class basicmaths {
 
     }
 
-
-
     public static void main(String[] args) {
         // extractionOfNumbers(7789);
         // countNumberOfDigits(7789);
